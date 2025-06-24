@@ -1,9 +1,19 @@
-# PortfolioAI Builder Documentation
+# Portfolio Builder Documentation
 
-This folder contains all technical documentation for the PortfolioAI Builder project.
+This directory contains all documentation for the Portfolio Builder platform.
 
-## Structure
-- `architecture/` - Technical architecture and system design
-- `database/` - Database schemas and design
-- `business/` - Business plan and strategy
-- `development/` - Development phases and roadmap
+## 📁 Structure
+
+- **architecture/** - Technical architecture and system design
+- **business/** - Business model, pricing, and marketing strategy  
+- **development/** - Development setup, deployment, and roadmap
+
+## 🚀 Quick Start
+
+1. Read [System Overview](architecture/system-overview.md)
+2. Review [Business Model](business/business-model.md)
+3. Check [Development Roadmap](development/roadmap.md)
+
+## 📞 Contact
+
+For questions about this documentation, contact the development team.
